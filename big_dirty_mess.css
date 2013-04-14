@@ -1,0 +1,7 @@
+.takedown-notice .reveal .state-background {
+  background: maroon;
+}
+
+.takedown-notice blockquote {
+  background: rgba( 1,1,1, 0.6 );
+}
